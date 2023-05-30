@@ -24,7 +24,6 @@ body {
 
 img {
   display: block;
-  height: auto;
 }
 
 .visually-hidden {
@@ -350,6 +349,10 @@ img {
           justify-content: space-between;
   width: 478px;
   margin: 108px auto 0 auto;
+}
+
+.sponsor__img {
+  align-self: center;
 }
 
 /* Site main styles end */
